@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "90848751133",
+    "firebase_url": "https://kcgbustrack.firebaseio.com",
+    "project_id": "kcgbustrack",
+    "storage_bucket": "kcgbustrack.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:90848751133:android:aec9e35f88856b94",
+        "android_client_info": {
+          "package_name": "in.kcgtrack.www.kcgbus"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "90848751133-43jjqvdd09sedm8544olsmcuurs8359h.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "in.kcgtrack.www.kcgbus",
+            "certificate_hash": "017ee2ef3cff60ef4aadfa864810cba5614b3dfa"
+          }
+        },
+        {
+          "client_id": "90848751133-fff8nfls3in4510homj6nk3lk94unvmo.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAwMskm8GUJhTbieAnfaf5XCw0bw1hI7Tc"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "90848751133-fff8nfls3in4510homj6nk3lk94unvmo.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
